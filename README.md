@@ -31,10 +31,13 @@ Data yang dimiliki mencakup berbagai variabel yang berkaitan dengan karakteristi
 Rekomendation
 
 Untuk Dataset / Model :
+
 1.	Penambahan Data: Dataset dapat diperbaiki dengan menambahkan lebih banyak data film, seperti informasi tambahan tentang genre, aktor, sutradara, box office, atau rating. Semakin banyak data, semakin baik representasi dan analisisnya.
 2.	Penyetelan Feature / Engineering: Beberapa fitur dapat diubah, digabung, atau diekstraksi lebih lanjut, misalnya membuat kategori durasi film, binning rating, atau kombinasi genre, untuk meningkatkan kualitas data bagi analisis atau model.
 3.	Penyetelan Model (Opsional): Jika dataset ini nantinya digunakan untuk prediksi, penyetelan model (hyperparameter tuning) bisa dilakukan untuk meningkatkan performa.
+   
 Untuk Penggunaan Perusahaan / Studi Film:
+
 1.	Implementasi Analisis: Dataset yang sudah bersih dapat digunakan untuk analisis lebih lanjut, seperti tren genre, rating populer, atau performa aktor/sutradara.
 2.	Pelatihan Tim / Insight: Tim marketing atau produksi film bisa menggunakan insight dari data ini untuk mengambil keputusan yang lebih tepat, misalnya menentukan genre atau target penonton.
 3.	Monitoring & Update Dataset: Dataset perlu diperbarui secara berkala karena film baru terus dirilis dan preferensi penonton bisa berubah.
