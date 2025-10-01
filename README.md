@@ -7,9 +7,11 @@ PROBLEM STATEMENT
 Studi beserta para director menghadapi tantangan dalam mengidentifikasi film-film yang memiliki potensi rendah dalam menarik perhatian penonton. Variabel seperti pada data yang dimiliki dapat menjadi faktor yang perlu dianalisis untuk memahami performa film.  Dengan memahami variabel-variabel ini, dapat dikembangkan model prediksi yang dapat mengklasifikasikan film sebagai “High Popularity” atau “Low Popularity”. Dengan demikian, studio dapat membuat strategi yang lebih tepat untuk meningkatkan engagement penonton dan merencanakan promosi yang efektif.  Masalah ini penting karena pengaruhnya terhadap pendapatan dan keberhasilan film. Film yang kurang diminati dapat menandakan adanya ketidakcocokan dengan preferensi penonton, sehingga studio perlu menyesuaikan strategi produksi dan promosi untuk meningkatkan daya tarik film. 
 
 TUJUAN  
+
 Berdasarkan permasalahan tersebut, proses ini bertujuan untuk membersihkan data, standarisasi data, normalisasi data serta binning data agar data yang dimiliki nantinya dapat diproses lebih lanjut dengan baik. Dengan pemahaman ini, studio dapat mengambil langkah yang tepat dalam merencanakan strategi promosi, meningkatkan engagement penonton, dan mengoptimalkan produksi film.
 
 DATASET
+
 Berikut adalah variabel-variabel yang terdapat dalam dataset.
 1. Color : pewarnaan pada film
 2. director_name : nama Director
@@ -27,6 +29,7 @@ Berikut adalah variabel-variabel yang terdapat dalam dataset.
 Data yang dimiliki mencakup berbagai variabel yang berkaitan dengan karakteristik dan performa film. Setiap baris dalam dataset mewakili satu film, sementara setiap kolom merepresentasikan atribut atau fitur tertentu yang dapat digunakan untuk menganalisis popularitas atau kesuksesan film. Variabel-variabel seperti durasi film, rating IMDB, jumlah like di Facebook, genre, dan jumlah votes dapat memberikan wawasan yang berharga tentang faktor-faktor yang memengaruhi minat penonton. Dengan memahami data ini, kita dapat mengembangkan model analisis atau prediksi yang tepat untuk mengidentifikasi film-film yang berpotensi diminati penonton dan merencanakan strategi promosi atau produksi yang lebih efektif.
 
 Rekomendation
+
 Untuk Dataset / Model :
 1.	Penambahan Data: Dataset dapat diperbaiki dengan menambahkan lebih banyak data film, seperti informasi tambahan tentang genre, aktor, sutradara, box office, atau rating. Semakin banyak data, semakin baik representasi dan analisisnya.
 2.	Penyetelan Feature / Engineering: Beberapa fitur dapat diubah, digabung, atau diekstraksi lebih lanjut, misalnya membuat kategori durasi film, binning rating, atau kombinasi genre, untuk meningkatkan kualitas data bagi analisis atau model.
